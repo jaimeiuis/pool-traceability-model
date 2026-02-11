@@ -2,13 +2,13 @@ Problem: Some lab workflows require pooled testing with reflex retesting, but sy
 
 Solution: This project demonstrates a minimal, queryable traceability model in SQLite:
 
-pools and membership
+- Pools and membership
 
-pool-level test results
+- Pool-level test results
 
-reflex tests for constituent samples
+- Reflex tests for constituent samples
 
-lineage queries and exception detection (missing reflex)
+- Lineage queries and exception detection (missing reflex)
 
 Key outputs: lineage query, exception report query, and derived final reporting status.
 
